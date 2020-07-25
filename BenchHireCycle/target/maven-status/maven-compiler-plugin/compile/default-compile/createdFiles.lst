@@ -1,0 +1,9 @@
+com\benchire\model\SeatingModel.class
+com\benchire\model\WheelModel.class
+com\benchire\model\FrameModel.class
+com\benchire\services\CycleServices.class
+com\benchire\model\HandleBarModel.class
+com\benchire\model\CycleModel.class
+com\benchire\AppApplication.class
+com\benchire\model\ChainModel.class
+com\benchire\services\GenerateCost.class
